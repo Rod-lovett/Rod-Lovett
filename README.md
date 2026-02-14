@@ -24,11 +24,11 @@ I'm a self taught programmer passionate about coding .
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rod-Lovett&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rod-lovett&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_Rod-Lovett&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_Rod-lovett&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_Rod-Lovett&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_Rod-lovett&theme=tokyonight)
 
 
 ### 📊 GitHub Stats
