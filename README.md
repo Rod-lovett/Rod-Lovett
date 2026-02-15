@@ -59,19 +59,19 @@ SQL                    ■■■■■■■□□□  70%
 
 ## 🚀 **Featured Projects**
 
-### **Horoscope API Service**
+### **Horoscope API Service** (in progrees)
 > *A scalable microservice delivering personalized astrological data*
 - **Tech Stack:** Node.js, Express, Redis, MongoDB, Docker
 - **Highlights:** 99.9% uptime, sub-100ms response times, Redis caching layer
 - **Links:** [Live Demo](https://your-demo-link.com) · [Repository](https://github.com/Rod-lovett/horoscope-project)
 
-### **Clean Thoughts Platform**
+### **Clean Thoughts Platform** (next project)
 > *A minimalist publishing platform focused on digital wellness*
 - **Tech Stack:** React, TypeScript, Node.js, PostgreSQL
 - **Highlights:** Responsive design, dark mode, CMS integration
 - **Links:** [Live Demo](https://your-demo-link.com) · [Repository](https://github.com/Rod-lovett/clean-thoughts-minimalism)
 
-### **Portfolio Website**
+### **Portfolio Website** final showcase 
 > *Personal portfolio showcasing development work*
 - **Tech Stack:** Next.js, Tailwind CSS, Vercel
 - **Highlights:** 98 Lighthouse score, optimized images, smooth animations
